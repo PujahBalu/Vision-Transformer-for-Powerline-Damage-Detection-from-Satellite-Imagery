@@ -1,0 +1,10 @@
+
+torch>=2.0
+transformers
+albumentations
+matplotlib
+numpy
+tensorboard
+opencv-python
+scikit-learn
+pandas
